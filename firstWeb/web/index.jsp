@@ -62,7 +62,7 @@
     <option> shanghai</option>
     <option> beijing</option>
   </select>
-  <select multiple size="3">
+  <select multiple >
     <option> shanghai</option>
     <option> beijing</option>
     <option> beijing</option>
