@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Web_js/Web_js.iml" filepath="$PROJECT_DIR$/Web_js/Web_js.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstWeb/firstWeb.iml" filepath="$PROJECT_DIR$/firstWeb/firstWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/webPractice.iml" filepath="$PROJECT_DIR$/webPractice.iml" />
     </modules>

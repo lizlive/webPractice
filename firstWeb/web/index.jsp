@@ -50,6 +50,9 @@
   </table>
   <a href="http://www.baidu.com">link to baidu</a><br>
   <img src="images/first.jpg">
+ <script type="text/javascript">
+     window.alert("first program about js")
+ </script>
   </body>
 <form>
   account:<input type="text"><br>
